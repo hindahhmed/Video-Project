@@ -16,7 +16,7 @@ When the user enters the website, they are presented with an opening page where 
 
 ## PROCESS
 Our group decided to split the work amongst ourselves. We planned the storyline for our video together. Raya wrote the script for the video. Liza, Hind, Raya, and Javeria took part in acting for the video as well as shooting it with smartphone camera. We shot the video in different locations for example the dining hall, gym, library, and Raya’s room. We set up the background for every scene and we took both wide-shot and close-up clips. We arranged for props to use in every scene 
-Liza and Hind edited the video. Javeria and Hind developed the website with HTML and CSS and added interactivity with Javascript. Raya did the documentation for the README file.
+Liza edited the video. Javeria and Hind developed the website with HTML and CSS and added interactivity with Javascript. Raya did the documentation for the README file.
 
 ## REFLECTION
 Our initial idea was to create a “How to…” video, and we wanted to do something relating to our university. We intended to make it humorous and sarcastic. We wanted to use the digital video camera along with the equipments to film the video, and we had rented them from the Equipment Center. Unfortunately, we weren’t getting the expected lighting, angles, and spanning on it due to our lack of knowledge of using professional camera, and so we decided to film it using smartphone’s camera. The size of the video we can upload to github is 100 MB at most, and our our file is over 600 MB as it was shot on a good camera so we couldn't host the best quality video on the website. 
