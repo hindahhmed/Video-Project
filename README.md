@@ -1,6 +1,6 @@
 # VIDEO ASSIGNMENT
 
- [Link to Video](https://hindahhmed.github.io/)
+ [Link to Website](https://hindahhmed.github.io/)
 
 ## PROJECT DESCRIPTION
 
