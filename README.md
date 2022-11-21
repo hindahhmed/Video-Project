@@ -1,3 +1,5 @@
+# VIDEO ASSIGNMENT
+
 ## PROJECT DESCRIPTION
 
 Our project consists on a video about “How to…NYUAD” which implies to how to survive at NYU Abu Dhabi. There are three steps involved: “Eat, Sleep, and Graduate” but all of them with some twists, so it’s not just some regular steps but the viewer gets some humor out of it.
